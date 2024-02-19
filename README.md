@@ -1,2 +1,2 @@
 # webdev-portfolio
-Website portfolio and blog
+website portfolio and blog
